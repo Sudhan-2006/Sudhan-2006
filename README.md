@@ -1,8 +1,10 @@
 <!-- ========================= HEADER ========================= -->
 
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=SUDHARSHAN%20B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="assets/header.svg"
     width="100%"
     alt="Sudharshan B Header"
   />
@@ -292,6 +294,17 @@
 </p>
 
 ---
+<!-- ========================= QUOTE ========================= -->
+
+<p align="center">
+  <img
+    src="assets/quote.svg"
+    width="100%"
+    alt="Sudharshan B Quote"
+  />
+</p>
+
+---
 
 <!-- ========================= CURRENT INTERESTS ========================= -->
 
@@ -348,9 +361,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer"
+    src="assets/footer.svg"
     width="100%"
-    alt="Footer"
+    alt="Sudharshan B Footer"
   />
 </p>
 
